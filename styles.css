@@ -1,0 +1,9 @@
+.product {
+    margin-bottom: 15px;
+}
+
+.cart {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-top: 20px;
+}
